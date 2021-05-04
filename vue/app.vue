@@ -74,4 +74,11 @@ button {
     transform: scale(0.95, 0.95);
     transition: transform 0.6s
 }
+.delete-button:hover{
+  color: #3a525a;
+}
+.add-button:hover{
+  color: rgb(122, 183, 253);
+}
 </style>
+

@@ -1,5 +1,5 @@
 # js-sites
-javascript/(mainly) also vue sites, i'll try to update every now and then.
+javascript/(mainly) vue sites, i'll try to update every now and then.
 
 i'll add credit to whom i do it from, because i'm just trying to learn the basics of javascript, html and css.
 

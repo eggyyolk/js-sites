@@ -1,5 +1,5 @@
 <template>
-  <h1>ariana grande's music is the only good thing about her</h1>
+  <h1>woah controversial topic</h1>
   <button @click="start" :disabled="isPlaying">play</button>
   <Block v-if="isPlaying" :delay="delay" @end="endGame"/>
   <Results v-if="showResults" :score="score" />

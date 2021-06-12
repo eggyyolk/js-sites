@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "What is Lorem Ipsum?",
+      "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "tags": [
+        "webdev",
+        "news",
+        "design"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "What's 'Lorem Ipsum' used for?",
+      "body": "In layman's terms, Lorem Ipsum is a dummy or placeholder text. It's often used in laying out print, infographics, or web design. The primary purpose of Lorem Ipsum is to create text that does not distract from the overall layout and visual hierarchy.",
+      "tags": [
+        "asks",
+        "design",
+        "webdev"
+      ]
+    },
+    {
+      "title": "How do I move text up using CSS when nothing is working?",
+      "body": "I want to move the text displayed at the bottom of the page slightly upwards and have tried almost everything i know and google but can't shift the text upwards to display the remaining clipped text.\n\n",
+      "tags": [
+        "help",
+        "css",
+        "webdev"
+      ],
+      "id": "B5b0V3p"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+body {
+    background: #fdfdfd;
+    color: #0e0809;
+    
+}
+.container {
+    width: 90%;
+    max-width: 960px;
+    margin: 80px auto;
+    border-radius: 20px;
+    box-shadow:1px 1px 9px #3a1d3a1a;
+    background: white;
+}
+.error {
+    color: #ff0867;
+    font-size: 14px;
+}
+button {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background: #ff1778;
+    color: #ffffff;
+    font-weight: bolder;
+    transition: transform .2s; /* Animation */
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+button:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,249 @@
+.landing .shop {
+  margin: 12px 10px 21px 0;
+  display: inline-block;
+  width: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .about {
+  margin: 12px 0 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .journal {
+  margin: 12px 40.2px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .contact {
+  margin: 12px 44.3px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .log-in {
+  margin: 12px 52.3px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .shopping-cart {
+  background: url('assets/images/ShoppingCart.png') 50% / contain no-repeat;
+  width: 0px;
+  height: 0px;
+}
+.landing .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing .buttons {
+  margin: 0 0 70px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 0px;
+  box-sizing: border-box;
+}
+.landing .to-your-table {
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 36px;
+  color: #262729;
+}
+.landing .non-interactive-text {
+  margin: 0 0 12px 267.8px;
+  display: flex;
+  align-self: center;
+  box-sizing: border-box;
+}
+.landing .lorem-ipsum {
+  mix-blend-mode: overlay;
+  margin: 55px 206px 139px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .ellipse-2 {
+  mix-blend-mode: luminosity;
+  filter: blur(53.9px);
+  width: 0px;
+  height: 0px;
+}
+.landing .mild-gradial {
+  margin-right: 127.5px;
+  display: flex;
+  width: 0px;
+  height: 0px;
+  box-sizing: border-box;
+}
+.landing .tsuyo-1 {
+  mix-blend-mode: overlay;
+  margin: 55px 0 259px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.landing .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing .image-1 {
+  background: url('assets/images/Image1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 4px;
+  right: 396px;
+  width: 0px;
+  height: 0px;
+}
+.landing .container-3 {
+  position: relative;
+  margin: 0 15px 98px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.landing .filter {
+  filter: blur(3.3px);
+  border-radius: 37px;
+  background: rgba(255, 255, 255, 0.34) content-box, linear-gradient(0deg, rgba(179, 197, 156, 0.78) 0%, rgba(140, 153, 124, 0.694) 15.61%, rgba(71, 75, 67, 0.54) 57.73%, #707669 81%) border-box;
+  border: 1px solid transparent;
+  margin: 3.5px 0;
+  width: 0px;
+  height: 0px;
+}
+.landing .searchbar-1 {
+  filter: blur(3.3px);
+  border-radius: 37px;
+  background: rgba(255, 255, 255, 0.34) content-box, linear-gradient(0deg, rgba(179, 197, 156, 0.78) 0%, rgba(140, 153, 124, 0.694) 15.61%, rgba(71, 75, 67, 0.54) 57.73%, #707669 81%) border-box;
+  border: 1px solid transparent;
+  width: 0px;
+  height: 0px;
+}
+.landing .search {
+  filter: blur(3.3px);
+  border-radius: 37px;
+  background: rgba(255, 255, 255, 0.34) content-box, linear-gradient(0deg, rgba(179, 197, 156, 0.78) 0%, rgba(140, 153, 124, 0.694) 15.61%, rgba(71, 75, 67, 0.54) 57.73%, #707669 81%) border-box;
+  border: 1px solid transparent;
+  margin: 3.5px 0;
+  width: 0px;
+  height: 0px;
+}
+.landing .searchbar {
+  margin: 0 36.3px 97px 36.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 0px;
+  box-sizing: border-box;
+}
+.landing .frame-1 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.17);
+  border-radius: 49px;
+  background: #EEE8DE;
+  width: 0px;
+  height: 0px;
+}
+.landing .frame-2 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.17);
+  border-radius: 49px;
+  background: #EEE8DE;
+  width: 0px;
+  height: 0px;
+}
+.landing .frame-3 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.17);
+  border-radius: 49px;
+  background: #EEE8DE;
+  width: 0px;
+  height: 0px;
+}
+.landing .cards {
+  display: flex;
+  flex-direction: row;
+  column-gap: 61px;
+  width: 0px;
+  box-sizing: border-box;
+}
+.landing .frame-4 {
+  margin: 0 118.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 0px;
+  box-sizing: border-box;
+}
+.landing .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.landing .ellipse-1 {
+  opacity: 0.6;
+  filter: blur(73.3px);
+  position: absolute;
+  left: 50%;
+  top: 520px;
+  translate: -50% 0;
+  width: 0px;
+  height: 0px;
+}
+.landing .from-our-oven {
+  position: absolute;
+  left: 436.2px;
+  top: 115px;
+  overflow-wrap: break-word;
+  font-family: 'Prata';
+  font-weight: 400;
+  font-size: 32px;
+  color: #262729;
+}
+.landing .tsuyo {
+  overflow-wrap: break-word;
+  font-family: 'Purple Purse';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.landing .logo {
+  position: absolute;
+  left: 587px;
+  top: 39px;
+  display: flex;
+  box-sizing: border-box;
+}
+.landing {
+  background: linear-gradient(225.6deg, rgba(251, 247, 150, 0.2) 24.6%), linear-gradient(180deg, rgba(199, 142, 88, 0) 0.7%, #E1A98A 100%), linear-gradient(#F2DCA3, #F2DCA3);
+  display: flex;
+  padding: 24px 56px 0 46px;
+  width: 0px;
+  box-sizing: border-box;
+}

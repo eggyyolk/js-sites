@@ -1,0 +1,28 @@
+.cards .frame-1 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.13);
+  border-radius: 49px;
+  background: #FFFFFF;
+  width: 0px;
+  height: 0px;
+}
+.cards .frame-2 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.13);
+  border-radius: 49px;
+  background: #FFFFFF;
+  width: 0px;
+  height: 0px;
+}
+.cards .frame-3 {
+  box-shadow: 0px 4px 26.3px 0px rgba(0, 0, 0, 0.13);
+  border-radius: 49px;
+  background: #FFFFFF;
+  width: 0px;
+  height: 0px;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  column-gap: 61px;
+  width: 0px;
+  box-sizing: border-box;
+}
